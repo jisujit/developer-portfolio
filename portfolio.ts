@@ -12,32 +12,32 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Sujit Gangadharan',
+  title: "Hello, I am Sujit Gangadharan",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+    "I am a seeker, an observer, a lifelong learner, a student, feeling alive when solving problems ",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://1drv.ms/b/s!ApK6jxYsF1TkhN1Ur2piinVEW-REMA?e=hhG49W',
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'jisujit',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  url: 'https://jisujit.github.io/',
+  linkedin: 'https://www.linkedin.com/in/sujitg/',
+  github: 'https://https://github.com/jisujit',
+  instagram: 'https://www.instagram.com/gsujitji/',
+  // facebook: 'https://www.facebook.com/1hanzla100',
+  twitter: 'https://twitter.com/jisujitji',
 };
 
 export const skillsSection: SkillsSectionType = {
   title: 'What I do',
-  subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'TECH ENTHUSIAST WHO WANTS TO EXPLORE EVERY TECH',
   data: [
     {
       title: 'Full Stack Development',
@@ -115,10 +115,10 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Azure',
           iconifyTag: 'logos:microsoft-azure',
         },
-        {
+        /*{
           skillName: 'Heroku',
           iconifyTag: 'logos:heroku-icon',
-        },
+        },*/
         {
           skillName: 'PostgreSQL',
           iconifyTag: 'logos:postgresql',
@@ -135,10 +135,10 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Github Actions',
           iconifyTag: 'logos:github-actions',
         },
-        {
+        /*{
           skillName: 'Cloudinary',
           iconifyTag: 'logos:cloudinary',
-        },
+        },*/
         {
           skillName: 'Nginx',
           iconifyTag: 'logos:nginx',
